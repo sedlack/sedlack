@@ -1,4 +1,4 @@
-### Hi there 👋
+### print('Hello World') 👋
 
 ### - 🔭 I’m currently studying business analytics
 <!--
