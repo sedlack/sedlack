@@ -1,6 +1,6 @@
 ### print('Hello World') 👋
 
-### - 🔭 I’m currently studying business analytics
+### - 🔭 I’m currently a candidate for a Masters of Science in Business Analytics
 <!--
 **sedlack/sedlack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
