@@ -2,7 +2,7 @@
 
 ### 🔭 I’m currently a candidate for a Masters of Science in Business Analytics
 
-- I would like to share a few of the projects that I have been working on!
+I would like to share a few of the projects that I have been working on! 
 
 My github contains the following repositories
 - Finance_Workbook: Testing out various financial theories within python
